@@ -1,0 +1,8 @@
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\Structural Patterns\Facade\Facade\bin\Debug\Facade.exe.config
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\Structural Patterns\Facade\Facade\bin\Debug\Facade.exe
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\Structural Patterns\Facade\Facade\bin\Debug\Facade.pdb
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\Structural Patterns\Facade\Facade\obj\Debug\Facade.exe
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\Structural Patterns\Facade\Facade\obj\Debug\Facade.pdb
+D:\class\ITPassport\Advanced Programming & Design Patterns\Structural Patterns\Facade\Facade\bin\Debug\Facade.exe.config
+D:\class\ITPassport\Advanced Programming & Design Patterns\Structural Patterns\Facade\Facade\obj\Debug\Facade.exe
+D:\class\ITPassport\Advanced Programming & Design Patterns\Structural Patterns\Facade\Facade\obj\Debug\Facade.pdb
